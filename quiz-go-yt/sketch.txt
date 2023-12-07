@@ -1,0 +1,32 @@
+
+
+	//read all problem from the quiz.csv
+	
+//1.Open the file
+	
+
+	 
+	//3.It will read to read the file
+	
+	//4.call the parseproblem function
+
+	//open the file,create new reader
+	
+	//get input name of the file
+	
+	//set the duration of the timer
+	
+	//pull the problem from the file(calling our problem puller func)
+
+	//handle error
+	
+	// create a variable to count current answers
+	
+	//using the duration of the timer we want to initialize the timer
+	
+	//loops throught the problem and accept the answer
+	
+	//calc the result
+
+	//go over the lines and parse then
+	
